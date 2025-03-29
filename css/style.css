@@ -59,8 +59,9 @@ main {
 }
 
 .social-media a img {
-  width: 30px;
-  height: 30px;
+  width: 32px; /* Fixed width */
+  height: auto; /* Keeps aspect ratio */
+  max-width: 100%; /* Prevents oversized images */
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 
