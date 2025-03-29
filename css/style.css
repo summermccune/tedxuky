@@ -54,13 +54,13 @@ main {
 }
 
 .social-media img {
-  width: 16px;
-  height: 16px;
+  width: 30px;
+  height: 30px;
 }
 
 .social-media a img {
-  width: 16px;
-  height: 16px;
+  width: 30px;
+  height: 30px;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 
