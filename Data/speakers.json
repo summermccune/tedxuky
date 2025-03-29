@@ -1,0 +1,54 @@
+// For easily updating the information, including all the speaker data in a JSON file
+{
+  "2024": [
+    {
+      "name": "Destin Mizelle",
+      "title": "Counseling Psychology Ph.D. Canditate",
+      "bio": "Destin is a fourth-year Counseling Psychology Ph.D. candidate from College Park, GA. Destin's research interests broadly include racial socialization, social justice, mental health disparities in Black communities, and Black American cultural appreciation. Specifically, Destin is interested in celebrating African American naming patterns and examining the psychological effects of bearing Black Sounding Names. Through the lens of Liberation Psychology, and interdisciplinary collaboration, Destin's primary goal is to improve Black Americans' spiritual, physical, and mental well-being while appreciating their traditions, culture, and history.",
+      "headshot": "Data/2024/headshots/destin_mizelle_headshot.jpg"
+    },
+    {
+      "name": "Hannah Drake",
+      "title": "Poet, (Un)Known Project, Co-Founder",
+      "bio": "Hannah Drake is an author, activist, poet, and public speaker. She co-founded (Un)Known Project, which works to unearth hidden names and stories of Black people enslaved in America and the global African diaspora. She writes commentary on politics, feminism, and race, and her writing has been featured online at Cosmopolitan, The Washington Post, The Bitter Southerner, The Lily, and Harper’s Bazaar. Hannah was selected as a Soros Equality Fellow as an individual who they believe will become a long-term innovative leader impacting racial justice. Recently, Hannah was inducted into the Kentucky Women Remembered exhibit which seeks to honor outstanding women who have made significant contributions to Kentucky’s history. Hannah’s message is thought-provoking and at times challenging, however, she believes that it is in uncomfortable spaces that change can take place. “My sole purpose in writing and speaking is not to entertain you. I am trying to shake a nation.”",
+      "headshot": "Data/2024/headshots/hannah_drake_headshot.jpg"
+    },
+    {
+      "name": "Joseph Thacker",
+      "title": "Principal AI Engineer, Security Researcher",
+      "bio": "Joseph Thacker is a Principal AI Engineer at AppOmni as well as a security researcher who specializes in application security and AI. He has helped Fortune 500 companies find vulnerabilities that could have cost them millions, and has submitted over 1,000 vulnerabilities across Hackerone and Bugcrowd. He loves helping secure the planet by building and breaking systems. On a more personal level, he is a Christian, husband, father, and hacker. He loves most things in life, but is particularly fond of hacking, ai-art, running, podcasts, and keylime pie.",
+      "headshot": "Data/2024/headshots/joseph_thacker_headshot.jpg"
+    },
+    {
+      "name": "Nigel Marcellus Taylor",
+      "title": "PhD Candidate, Talk Show Host, Children's Book Author",
+      "bio": "Nigel Marcellus Taylor is an up & coming talk show host who centralizes Black voices, mental health, relationships, and healing. He is also a PhD Candidate at the University of Kentucky studying Communication. Nigel utilizes his academic research, charisma, and emotional intelligence to have meaningful conversations about vulnerable topics. He thrives in creating community and a safe environment for people to authentically express themselves while simultaneously feeling affirmed and validated in who they are. In addition, Nigel is the author of the children's book “The Endless Possibilities of Nora and Vincent” which debuted as the #3 Best Seller in Children’s Philosophy Books on Amazon.",
+      "headshot": "Data/2024/headshots/nigel_marcellus_headshot.jpg"
+    },
+    {
+      "name": "Shannon Sauer-Zavala, PhD",
+      "title": "Associate Professor of Clinical Psychology, Author",
+      "bio": "Dr. Sauer-Zavala is a licensed clinical psychologist and an internationally respected expert on personality change. As a researcher at the University of Kentucky, she runs clinical trials testing cutting-edge interventions that harness the power of personality change to alleviate common mental health conditions. She has co-authored over 120 peer-reviewed articles and book chapters, along with treatment manuals and an academic book on personality. Her research has been supported by the National Institute of Mental Health (NIMH), the Canadian Institute of Health Research, and the Templeton Foundation. Dr. Sauer-Zavala is passionate about helping others understand the science of personality change in order to cultivate the careers and relationships they want.",
+      "headshot": "Data/2024/headshots/shannon_sauer-zavala_headshot.jpg"
+    },
+    {
+      "name": "Shereen Thor",
+      "title": "Founder, Keynote Speaker",
+      "bio": "Shereen Thor is a comedian turned coach who slays with hope and humor. She has shared the stage with greats like Serena Williams, Prince Harry, Pau Gasol, and Les Brown. She is also the bestselling author of Revolutionary Woman, which focuses on inspiring women and people of color to revolutionize how they see themselves to create a more equitable world. She has been featured in Forbes, TEDx, The Wall Street Journal, Insider, Medium, Spike TV, 97.1 AMP Radio, and more. When she isn’t working, she is enjoying the great outdoors, spending time with her family, coaching or playing soccer, enjoying good food with friends and leaving her cell phone in the dust for extended periods.",
+      "headshot": "Data/2024/headshots/shereen_thor_headshot.jpg"
+    },
+    {
+      "name": "the artist ATB",
+      "title": "Metamodern Artist, Creator of SOULED",
+      "bio": "With his lifelong, time-based work of art called SOULED, the artist ATB conspires with audiences to foreground context as the origin of meaning and value. SOULED is an evolving project that fuses performance and visual art through time. It’s created in editions of 12 prints that double in value as they sell, ranging from a few dollars in the beginning to several thousand by the end. But any works unsold after 12 days are immolated in a recorded performance. His talk explains how appropriating context transforms our perception of art and life. Using personal narrative, famous works of art, and SOULED itself, the artist ATB explores the creation of meaning and value within our brief allotment of time.",
+      "headshot": "Data/2024/headshots/the_artistATB_headshot.jpg"
+    },
+  ],
+  "2025": [
+    {
+      "name": "Jane Doe",
+      "bio": "Jane is a pioneer in sustainable architecture...",
+      "headshot": "Data/headshots/jane_doe.jpg"
+    }
+  ]
+}
