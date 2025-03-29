@@ -1,0 +1,3 @@
+Joseph Thacker
+Principal AI Engineer, Security Researcher
+Joseph Thacker is a Principal AI Engineer at AppOmni as well as a security researcher who specializes in application security and AI. He has helped Fortune 500 companies find vulnerabilities that could have cost them millions, and has submitted over 1,000 vulnerabilities across Hackerone and Bugcrowd. He loves helping secure the planet by building and breaking systems. On a more personal level, he is a Christian, husband, father, and hacker. He loves most things in life, but is particularly fond of hacking, ai-art, running, podcasts, and keylime pie.
