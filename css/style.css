@@ -17,6 +17,11 @@ main {
   padding: 20px;
 }
 
+.center {
+  display: block;
+  margin: auto;
+}
+
 .speakers-container {
   display: flex;
   flex-wrap: wrap;
