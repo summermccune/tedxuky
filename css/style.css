@@ -69,3 +69,24 @@ main {
   transform: scale(1.2); /* Slight zoom effect */
   filter: brightness(1.2); /* Makes the image brighter */
 }
+
+.video {
+  margin-top: 10px;
+}
+
+.video img {
+  width: 30px;
+  height: 30px;
+}
+
+.video a img {
+  width: 32px; /* Fixed width */
+  height: auto; /* Keeps aspect ratio */
+  max-width: 100%; /* Prevents oversized images */
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.video a img:hover {
+  transform: scale(1.2); /* Slight zoom effect */
+  filter: brightness(1.2); /* Makes the image brighter */
+}
