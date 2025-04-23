@@ -4,7 +4,7 @@
             .then(response => response.json())
             .then(data => {
                 // Choose the year and speaker index
-                const speaker = data["2025"][0]; // You can change 0 to 1 for next speaker, etc.
+                const speaker = data["2025"][1]; // You can change 0 to 1 for next speaker, etc.
 
                 // Inject the data into your HTML
                 document.querySelector("#name").textContent = speaker.name;
@@ -30,7 +30,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TEDxUKY - Adria Thompson</title>
+    <title>TEDxUKY - Christal Badour</title>
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
