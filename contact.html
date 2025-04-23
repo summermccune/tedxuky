@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TEDxUKY - Home</title>
+    <title>Contact Us - TEDxUKY</title>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,32 +43,30 @@
         </div>
     </div>
 
-    <main>
-        <section class="theme-intro">
-            <h1 class="theme-title">Mosaic Minds</h1>
-            <p class="theme-description">
-                Our theme, <strong>Mosaic Minds</strong>, celebrates the beauty and power of combining diverse thoughts,
-                experiences, and perspectives to create transformative results. Much like a mosaic, where each unique
-                piece finds its place in a grander design, our ideas and individual stories come together to reveal a
-                more profound, unified picture. Through this lens, we acknowledge that every seemingly unrelated
-                insight, every distinct experience, contributes to a larger narrative—one that shapes us not only as
-                individuals but as a connected community.
-            </p>
+    <main class="contact-page">
+        <section class="contact-section">
+            <h1>Contact Us</h1>
+            <p>If you have any questions, media inquiries, or general feedback, we'd love to hear from you.</p>
+            <form class="contact-form">
+                <input type="text" placeholder="Your Name" required />
+                <input type="email" placeholder="Your Email" required />
+                <textarea rows="6" placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
         </section>
 
-        <div class="aligned-container">
-            <section id="speakers-2024">
-                <h2 class="textstyle">2024 Speakers</h2>
-                <div class="speakers-container"></div>
-            </section>
-        </div>
-
-        <div class="aligned-container">
-            <section id="speakers-2025">
-                <h2 class="textstyle">2025 Speakers</h2>
-                <div class="speakers-container"></div>
-            </section>
-        </div>
+        <section class="speaker-section">
+            <h2>Interested in Becoming a Speaker?</h2>
+            <p>We’re always looking for passionate individuals with ideas worth spreading. Tell us a little about your
+                talk idea, background, and why it matters.</p>
+            <form class="speaker-form">
+                <input type="text" placeholder="Your Name" required />
+                <input type="email" placeholder="Your Email" required />
+                <input type="text" placeholder="Talk Title / Topic" required />
+                <textarea rows="6" placeholder="Describe your idea in a few sentences" required></textarea>
+                <button type="submit">Submit Speaker Inquiry</button>
+            </form>
+        </section>
     </main>
 
     <footer class="footer">
@@ -94,8 +92,6 @@
             </div>
         </div>
     </footer>
-
-    <script src="js/app.js"></script>
 </body>
 
 </html>
