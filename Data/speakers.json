@@ -7,7 +7,8 @@
       "headshot": "Data/2024/headshots/destin_mizelle_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 4333,
-      "end": 5435
+      "end": 5435,
+      "link": "Speakers/dmizelle.html"
     },
     {
       "name": "Hannah Drake",
@@ -16,7 +17,8 @@
       "headshot": "Data/2024/headshots/hannah_drake_headshot.png",
       "videoId": "25xOclDOV_U",
       "start": 12465,
-      "end": 13216
+      "end": 13216,
+      "link": "Speakers/hdrake.html"
     },
     {
       "name": "Joseph Thacker",
@@ -25,7 +27,8 @@
       "headshot": "Data/2024/headshots/joseph_thacker_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 10360,
-      "end": 10954
+      "end": 10954,
+      "link": "Speakers/jthacker.html"
     },
     {
       "name": "Nigel Marcellus Taylor",
@@ -34,7 +37,8 @@
       "headshot": "Data/2024/headshots/nigel_marcellus_headshot.JPG",
       "videoId": "25xOclDOV_U",
       "start": 11383,
-      "end": 12421
+      "end": 12421,
+      "link": "Speakers/ntaylor.html"
     },
     {
       "name": "Shannon Sauer-Zavala, PhD",
@@ -43,7 +47,8 @@
       "headshot": "Data/2024/headshots/shannon_sauer-zavala_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 3046,
-      "end": 4112
+      "end": 4112,
+      "link": "Speakers/szavala.html"
     },
     {
       "name": "Shereen Thor",
@@ -52,7 +57,8 @@
       "headshot": "Data/2024/headshots/shereen_thor_headshot.png",
       "videoId": "25xOclDOV_U",
       "start": 5605,
-      "end": 6577
+      "end": 6577,
+      "link": "Speakers/sthor.html"
     },
     {
       "name": "the artist ATB",
@@ -61,7 +67,8 @@
       "headshot": "Data/2024/headshots/the_artistATB_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 1600,
-      "end": 2740
+      "end": 2740,
+      "link": "Speakers/tatb.html"
     }
   ],
   "2025": [
@@ -72,7 +79,8 @@
       "headshot": "Data/2025/headshots/adria_thompson_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/athompson.html"
     },
     {
       "name": "Christal Badour",
@@ -81,7 +89,8 @@
       "headshot": "Data/2025/headshots/christal_badour_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/cbadour.html"
     },
     {
       "name": "David Hague",
@@ -90,7 +99,8 @@
       "headshot": "Data/2025/headshots/david_hague_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/dhague.html"
     },
     {
       "name": "L. Sebastian Bryson",
@@ -99,7 +109,8 @@
       "headshot": "Data/2025/headshots/L.sebastian_bryson_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/lbryson.html"
     },
     {
       "name": "Marc Cormier",
@@ -108,7 +119,8 @@
       "headshot": "Data/2025/headshots/marc_cormier_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/mcormier.html"
     },
     {
       "name": "Stephen Seidel",
@@ -117,7 +129,8 @@
       "headshot": "Data/2025/headshots/stephen_seidel_headshot.jpeg",
       "videoId": "25xOclDOV_U",
       "start": 60,
-      "end": 100
+      "end": 100,
+      "link": "Speakers/sseidel.html"
     }
   ]
 }
